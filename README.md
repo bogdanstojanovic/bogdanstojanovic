@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. My name is Bogdan. I am Software developer that like go to go outside comfortability zone and fix things.  
+
+My dopamine level is strongly impacted by fixing things in software development and make people I work with happy.  
 
 <!--
 **bogdanstojanovic/bogdanstojanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
