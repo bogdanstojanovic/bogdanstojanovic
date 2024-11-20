@@ -1,14 +1,14 @@
-### Hi there 👋. My name is Bogdan. I am Software developer with specialization in diagnosis and resolving your CMS and web application pains.  
+### Hi there 👋. My name is Bogdan. I am a Software developer with specialization in diagnosis and resolving CMS and web applications.  
 
 ⚡Your web apps headaches. A thing of the past. 
 🤔How can I say that with confidence?
 
-My approach to tech and business peeps are simple. No flashy tricks or superhero skills. I do not believe in superheroes. 
-I listen, I think in temrs of your benefit and apply my knowledge through experience in technology. 
+My approach to tech and business proffesionals is simple. No flashy tricks or superhero skills. I do not believe in superheroes. 
+I listen, I think in terms of your benefit, and apply my knowledge through experience in technology. 
 
 💬 Optimizely, Umbraco, Sanity, Azure, Asp.net core... 
 
-#### All that in ways that makes things easier for you, not harder.
+#### All implemented in ways that make things easier for you, not harder.
 
 [:email: My email](mailto:bogdan.stojanovic@gmail.com)  
 
