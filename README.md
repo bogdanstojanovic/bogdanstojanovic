@@ -1,10 +1,8 @@
-### Hi there 👋. My name is Bogdan. I am Software developer that like to go outside comfortability zone and fix things.  
+### Hi there 👋. My name is Bogdan. I am Software developer with specialization in diagnosis and resolving your CMS and web application pains.  
 
-My dopamine level is strongly impacted by fixing things in software development and make people I work with happy.  
- 🌱 I’m currently learning Next.js (Sanity CMS)  
- 
-👯 I do not care so much about the industry as long as it makes an impact to society and do not harm others.   
-
+My dopamine level is strongly impacted by fixing your headaches.  
+My approach to tech and business peeps are simple. No flashy tricks or superhero skills. I do not believe in superheroes. 
+I listen, I think in temrs of your benefit and apply my knowledge through experience in technology. All that in ways that makes things easier for you, not harder.  
 
 
 [:email: My email](mailto:bogdan.stojanovic@gmail.com)  
