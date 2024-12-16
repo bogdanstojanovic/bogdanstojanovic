@@ -6,7 +6,7 @@
 My approach to tech and business proffesionals is simple. No flashy tricks or superhero skills. I do not believe in superheroes. 
 I listen, I think in terms of your benefit, and apply my knowledge through experience in technology. 
 
-💬 Optimizely, Umbraco, Sanity, Azure, Asp.net core... 
+💬 Azure, Asp.net core, C#, Next.js, Astro, Typescript, Optimizely, Umbraco, Sanity... 
 
 #### All implemented in ways that make things easier for you, not harder.
 
